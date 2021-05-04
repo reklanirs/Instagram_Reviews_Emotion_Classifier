@@ -1,0 +1,41 @@
+[
+    {
+        "id": 17953146793386784,
+        "created_at": 1608551467,
+        "text": "price?",
+        "owner": {
+            "id": "4139017546",
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fagc2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/161658663_272334034455542_2724140087598179702_n.jpg?tp=1&_nc_ht=instagram.fagc2-1.fna.fbcdn.net&_nc_ohc=HEuObeOa2z8AX_ZWEXM&ccb=7-4&oh=330405cc2031a17dfc3ad59206a90f49&oe=60891EE9&_nc_sid=9fb510",
+            "username": "tusharthakur949"
+        },
+        "likes_count": 0,
+        "answers": []
+    },
+    {
+        "id": 17876108755954666,
+        "created_at": 1605887646,
+        "text": "rate pls",
+        "owner": {
+            "id": "36576034961",
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fagc2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/163534511_290129362553194_313602897217806078_n.jpg?tp=1&_nc_ht=instagram.fagc2-1.fna.fbcdn.net&_nc_ohc=9aFBEDeUpUAAX-q5JAo&ccb=7-4&oh=f4ebba3c6f63be3043b5a00a78769055&oe=6088A35E&_nc_sid=9fb510",
+            "username": "mohd_ehb_"
+        },
+        "likes_count": 0,
+        "answers": [
+            {
+                "id": 18116844346161218,
+                "created_at": 1605888982,
+                "text": "@mhd_ehb_ check dm",
+                "owner": {
+                    "id": "31345321949",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fagc2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/104655610_734890267265839_7042082510067431729_n.jpg?tp=1&_nc_ht=instagram.fagc2-1.fna.fbcdn.net&_nc_ohc=Q9yxDDyzyrwAX9Xuts8&ccb=7-4&oh=d86b1b6d639825b0f55d29acf1a38f6f&oe=608866EF&_nc_sid=9fb510",
+                    "username": "airpods_case_1"
+                },
+                "likes_count": 0
+            }
+        ]
+    }
+]

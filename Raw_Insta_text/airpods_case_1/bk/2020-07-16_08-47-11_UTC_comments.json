@@ -1,0 +1,28 @@
+[
+    {
+        "id": 18164503117100360,
+        "created_at": 1613660692,
+        "text": "Jam ni berapa",
+        "owner": {
+            "id": "45282139160",
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fagc2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/139094407_196713018815345_6957488187894614060_n.jpg?tp=1&_nc_ht=instagram.fagc2-1.fna.fbcdn.net&_nc_ohc=zlgAMlfp2dwAX-zhUIa&ccb=7-4&oh=5eaeba65f98c20e799621703a4358e42&oe=6087910D&_nc_sid=9fb510",
+            "username": "qaseh.marissa.58"
+        },
+        "likes_count": 0,
+        "answers": [
+            {
+                "id": 18161501566099310,
+                "created_at": 1613662483,
+                "text": "@qaseh.marissa.58 hey",
+                "owner": {
+                    "id": "31345321949",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fagc2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/104655610_734890267265839_7042082510067431729_n.jpg?tp=1&_nc_ht=instagram.fagc2-1.fna.fbcdn.net&_nc_ohc=Q9yxDDyzyrwAX9Xuts8&ccb=7-4&oh=d86b1b6d639825b0f55d29acf1a38f6f&oe=608866EF&_nc_sid=9fb510",
+                    "username": "airpods_case_1"
+                },
+                "likes_count": 0
+            }
+        ]
+    }
+]
